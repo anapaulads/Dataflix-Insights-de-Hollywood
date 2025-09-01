@@ -8,10 +8,10 @@ Ayla: The Daughter of War,2017,,,
 Vikram Vedha,2017,,,UA
 Dangal,2016,,12391761.0,U
 Taare Zameen Par,2007,,1223869.0,U
-Once Upon a Time in America,1984,75.0,5321508.0,A
+Once Upon a Time in America,1984,75,5321508.0,A
 Anand,1971,,,U
 Tengoku to jigoku,1963,,,
-Witness for the Prosecution,1957,76.0,8175000.0,U
+Witness for the Prosecution,1957,76,8175000.0,U
 Paths of Glory,1957,90.0,,A
 Sunset Blvd.,1950,,,Passed
 The Great Dictator,1940,,288475.0,Passed
@@ -21,7 +21,7 @@ Drishyam,2013,,,U
 Miracle in cell NO.7,2019,,,TV-14
 Babam ve Oglum,2005,,,
 Idi i smotri,1985,,,A
-Ikiru,1952,92.0,55240.0,Not Rated
+Ikiru,1952,92,55240.0,Not Rated
 Ladri di biciclette,1948,,332930.0,
 M - Eine Stadt sucht einen Mörder,1931,,28877.0,Passed
 Metropolis,1927,98.0,1236166.0,Not Rated
@@ -46,7 +46,7 @@ Hera Pheri,2000,,,U
 Eskiya,1996,,,
 Andaz Apna Apna,1994,,,U
 Dom za vesanje,1988,,280015.0,R
-Stalker,1979,85.0,234723.0,U
+Stalker,1979,85,234723.0,U
 Höstsonaten,1978,,,U
 The Message,1976,,,PG
 Sholay,1975,,,U
@@ -59,7 +59,7 @@ Du rififi chez les hommes,1955,97.0,57226.0,
 Tôkyô monogatari,1953,,,U
 Rashômon,1950,98.0,96568.0,Not Rated
 To Be or Not to Be,1942,86.0,3270000.0,Passed
-The Gold Rush,1925,90.0,5450000.0,Passed
+The Gold Rush,1925,90,5450000.0,Passed
 Sherlock Jr.,1924,,977375.0,Passed
 Pink,2016,,1241223.0,UA
 Koe no katachi,2016,78.0,,16
@@ -75,12 +75,12 @@ Kahaani,2012,,1035953.0,UA
 Zindagi Na Milegi Dobara,2011,,3108485.0,U
 A Wednesday,2008,,,UA
 Hachi: A Dog's Tale,2009,,,G
-Mary and Max,2009,72.0,,Not Rated
+Mary and Max,2009,72,,Not Rated
 Lage Raho Munna Bhai,2006,,2217561.0,U
 Munna Bhai M.B.B.S.,2003,,48772.0,U
 Dil Chahta Hai,2001,,300000.0,Unrated
 "Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni",1997,,,UA
-Underground,1995,79.0,171082.0,Not Rated
+Underground,1995,79,171082.0,Not Rated
 La haine,1995,,309811.0,UA
 Dilwale Dulhania Le Jayenge,1995,,,U
 Ba wang bie ji,1993,,5216888.0,R
@@ -92,12 +92,12 @@ Barry Lyndon,1975,89.0,,PG
 Zerkalo,1975,,177345.0,G
 Viskningar och rop,1972,,1742348.0,A
 Solaris,1972,90.0,22168.0,PG
-Le samouraï,1967,90.0,39481.0,GP
+Le samouraï,1967,90,39481.0,GP
 Persona,1966,86.0,,Not Rated
 Andrei Rublev,1966,,102021.0,R
 La battaglia di Algeri,1966,96.0,55908.0,
 El ángel exterminador,1962,,,
-Sanjuro,1962,83.0,46808.0,U
+Sanjuro,1962,83,46808.0,U
 The Man Who Shot Liberty Valance,1962,94.0,,Approved
 Ivanovo detstvo,1962,,,
 Jungfrukällan,1960,,1526000.0,A
@@ -107,7 +107,7 @@ Kakushi-toride no san-akunin,1958,,,
 Le notti di Cabiria,1957,,752045.0,
 Kumonosu-jô,1957,,,
 Le salaire de la peur,1953,85.0,,U
-White Heat,1949,89.0,,Approved
+White Heat,1949,89,,Approved
 The Red Shoes,1948,,10900000.0,Not Rated
 The Shop Around the Corner,1940,96.0,203300.0,Approved
 La Grande Illusion,1937,,172885.0,
@@ -133,7 +133,7 @@ Yeopgijeogin geunyeo,2001,,,
 Vizontele,2001,,,
 Pâfekuto burû,1997,,776665.0,A
 Knockin' on Heaven's Door,1997,,3296.0,Not Rated
-Akira,1988,68.0,553171.0,UA
+Akira,1988,68,553171.0,UA
 Tenkû no shiro Rapyuta,1986,78.0,,U
 Kagemusha,1980,84.0,4000000.0,U
 Sleuth,1972,,4081254.0,PG
@@ -152,7 +152,7 @@ Roman Holiday,1953,78.0,,Approved
 In a Lonely Place,1950,,,Approved
 Kind Hearts and Coronets,1949,,35948.0,U
 Rope,1948,73.0,,A
-Out of the Past,1947,85.0,,Approved
+Out of the Past,1947,85,,Approved
 Brief Encounter,1945,92.0,,U
 Laura,1944,,4360000.0,Passed
 Arsenic and Old Lace,1942,,,
@@ -180,9 +180,9 @@ Hiroshima mon amour,1959,,88300.0,Not Rated
 The Ten Commandments,1956,,93740000.0,U
 The Searchers,1956,94.0,,Passed
 East of Eden,1955,72.0,,U
-Harvey,1950,79.0,,Approved
+Harvey,1950,79,,Approved
 Miracle on 34th Street,1947,88.0,2650000.0,Approved
-The Big Sleep,1946,86.0,6540000.0,Passed
+The Big Sleep,1946,86,6540000.0,Passed
 The Lost Weekend,1945,,9460000.0,Passed
 The Philadelphia Story,1940,96.0,404524.0,Approved
 His Girl Friday,1940,,296000.0,Passed
@@ -210,7 +210,7 @@ Ondskan,2003,61.0,15280.0,
 Gongdong gyeongbi guyeok JSA,2000,58.0,,
 Hana-bi,1997,,233986.0,
 Naked,1993,84.0,1769305.0,Not Rated
-Batman: Mask of the Phantasm,1993,65.0,5617391.0,PG
+Batman: Mask of the Phantasm,1993,65,5617391.0,PG
 Lat sau san taam,1992,,,R
 Majo no takkyûbin,1989,83.0,,U
 Dip huet seung hung,1989,82.0,,R
@@ -222,9 +222,9 @@ Guess Who's Coming to Dinner,1967,63.0,56700000.0,Approved
 Bonnie and Clyde,1967,86.0,,A
 Jules et Jim,1962,97.0,,
 À bout de souffle,1960,,336705.0,U
-Red River,1948,96.0,,Passed
-Key Largo,1948,74.0,7017420.0,Approved
-To Have and Have Not,1944,90.0,,PG
+Red River,1948,96,,Passed
+Key Largo,1948,74,7017420.0,Approved
+To Have and Have Not,1944,90,,PG
 Shadow of a Doubt,1943,94.0,,PG
 Stagecoach,1939,93.0,,Passed
 The Lady Vanishes,1938,98.0,,Approved
@@ -265,8 +265,8 @@ Invasion of the Body Snatchers,1956,92.0,,Approved
 Rebel Without a Cause,1955,89.0,212780.0,PG-13
 The Ladykillers,1955,91.0,23213.0,Not Rated
 Sabrina,1954,72.0,,Passed
-The Quiet Man,1952,85.0,10550000.0,Passed
-The Day the Earth Stood Still,1951,83.0,,U
+The Quiet Man,1952,85,10550000.0,Passed
+The Day the Earth Stood Still,1951,83,,U
 Gilda,1946,,,Approved
 The Invisible Man,1933,87.0,,TV-PG
 Dark Waters,2019,73.0,11136084.0,PG-13
