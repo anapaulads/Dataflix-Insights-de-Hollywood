@@ -13,7 +13,7 @@ APIs: OMDb API (para enriquecimento de dados).
 ├── LH_CD_ANAPAULA.ipynb      # Notebook principal com todo o pipeline
 ├── desafio_indicium_imdb.csv      # O conjunto de dados inicial
 ├── desafio_indicium_imdb_completo.csv      # O conjunto de dados limpo e pré-processado
-├── filmes_para_buscar.csv e filmes_para_buscar_omdb_atualizado.csv      #  Arquivos intermediários do processo de busca na API
+├── filmes_para_buscar.csv e filmes_buscar_omdb_atualizado.csv      #  Arquivos intermediários do processo de busca na API
 ├── requirements.txt      # Lista de pacotes e versões para reprodutibilidade do ambiente.
 ├── modelo_imdb.pkl      # O modelo preditivo final treinado e salvo
 ```
@@ -73,7 +73,7 @@ O RMSE é excelente por ser de fácil interpretação (representa o erro médio 
 
 
 ## 🔮 Previsão para 'The Shawshank Redemption'
-Previsão para "The Shawshank Redemption": O modelo treinado previu uma nota de 8.77 para o filme, um valor bem próximo da sua nota real (9.3).
+Previsão para "The Shawshank Redemption": O modelo treinado previu uma nota de 8.75 para o filme, um valor próximo da sua nota real (9.3).
 
 ## ▶️ Como Rodar
 1. Clone este repositório:
