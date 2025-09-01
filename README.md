@@ -1,4 +1,4 @@
-# Dataflix - Insights de Hollywood: Prevendo notas IMDb com Machine Learning
+# 🎬🤖 Dataflix - Insights de Hollywood: Prevendo notas IMDb com Machine Learning
 
 ## 🎯 Objetivo do Projeto
 Este projeto de Ciências de Dados analisa filmes do IMDb para entender os fatores que explicam altas avaliações e prever notas futuras. Além do modelo preditivo, o trabalho oferece recomendações estratégicas para identificar gêneros com maior potencial de sucesso
